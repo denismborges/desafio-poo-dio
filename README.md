@@ -7,3 +7,8 @@ Esse é o repositório para reforçar o conhecimento em Programação Orientada 
 * Encapsulamento
 * Herança
 * Polimorfismo
+
+### Alterações em relação ao projeto original:
+
+* ENUMS em vez de constantes para os valores XP.
+* Criação de um construtor na classe pai (Conteudo).
